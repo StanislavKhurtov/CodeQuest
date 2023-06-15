@@ -1,3 +1,3 @@
-# CodeWars
+Solution Codewars 8kyu
 
 
