@@ -1,6 +1,7 @@
 /*
 DNA to RNA Conversion*/
 */
+
 /*
 Deoxyribonucleic acid, DNA is the primary information storage molecule in biological systems. It is composed of four nucleic acid bases Guanine ('G'), Cytosine ('C'), Adenine ('A'), and Thymine ('T').
 
@@ -16,6 +17,6 @@ The input string can be of arbitrary length - in particular, it may be empty. Al
 
 /*
 function DNAtoRNA(dna) {
-   return dna.replace(/T/g, "U");
+    return dna.replace(/T/g, "U");
 }
 */
