@@ -1,3 +1,4 @@
+/*
 function positiveSum(arr) {
     let sum = 0;
     for(let i = 0; i < arr.length; i++) {
@@ -7,8 +8,9 @@ function positiveSum(arr) {
 }
 
 
-onst positiveSum = arr => arr.reduce((accumulator, current) => current > 0 ? accumulator + current : accumulator, 0);
+const positiveSum = arr => arr.reduce((accumulator, current) => current > 0 ? accumulator + current : accumulator, 0);
 
 
 const positiveSum = arr => arr.filter(number => number > 0).reduce((accumulator, current) => accumulator + current, 0)
 
+*/
