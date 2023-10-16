@@ -1,4 +1,3 @@
-
 function stray(numbers) {
     let arr = numbers.sort();
     if (arr[0] !== arr[1]) {
