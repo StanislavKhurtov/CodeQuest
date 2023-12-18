@@ -5,3 +5,5 @@ function getChar(number) {
         return null;
     }
 }
+
+const getChar = String.fromCharCode;
